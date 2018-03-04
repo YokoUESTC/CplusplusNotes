@@ -1,3 +1,5 @@
 Debug/
 
 *.sln
+
+# git rm -r --cached .
